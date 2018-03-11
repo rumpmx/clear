@@ -1,0 +1,4 @@
+Clear
+===
+
+Joomla minimal Template
